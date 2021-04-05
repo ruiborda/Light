@@ -1,0 +1,19 @@
+{
+  "name": "ruiborda/light",
+  "description": "Web Framework",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "RuiBorda",
+      "email": "bordarui@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Light\\": "./src"
+    }
+  }
+}
