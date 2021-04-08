@@ -35,3 +35,9 @@ $app->get(
         
 $app->start();
 ```
+
+# Execute Example
+
+````shell
+php -S localhost:8080 -t example/public/
+````
