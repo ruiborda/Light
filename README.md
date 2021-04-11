@@ -1,5 +1,7 @@
 # Light
 
+[![Packagist](https://img.shields.io/packagist/v/ruiborda/light.svg)](https://packagist.org/packages/ruiborda/light)
+
 Web Framework
 
 ## Installation
